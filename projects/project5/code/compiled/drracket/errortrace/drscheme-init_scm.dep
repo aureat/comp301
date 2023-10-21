@@ -1,0 +1,1 @@
+("8.8" ta6osx ("c541d5c5062ae68894604e2f176d07872f2189ee" . "75e1663294ee4cdeabcff481f81cb9e59f81d806") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"mzlib" #"pretty.rkt") (collects #"mzlib" #"trace.rkt") (collects #"mzscheme" #"main.rkt"))

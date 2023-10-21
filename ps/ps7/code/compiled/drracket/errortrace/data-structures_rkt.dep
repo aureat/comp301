@@ -1,0 +1,1 @@
+("8.8" ta6osx ("66e05e6652fad11530bcafff84c5e1f6f9f75b42" . "21a439632ae353db7eb644203235a6f6ccf184ce") #"/Users/altunhasanli/Projects/University/Spring23/COMP301/problem-sets/ps7/code/lang.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))

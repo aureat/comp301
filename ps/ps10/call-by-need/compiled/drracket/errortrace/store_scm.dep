@@ -1,1 +1,0 @@
-("8.8" ta6osx ("fe7a2c0d9a95f0f9210f794c2464c0592afc2eab" . "f629e71a4e8c97ea33947fb03a19f9ccc7e2cdde") #"/Users/altunhasanli/Projects/University/Spring23/COMP301/problem-sets/ps10/call-by-need/drscheme-init.scm" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"eopl.rkt"))

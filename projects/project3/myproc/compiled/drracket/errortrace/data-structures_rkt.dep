@@ -1,1 +1,0 @@
-("8.8" ta6osx ("6e8c7021efd073977fbaa7640645abc0eced19b1" . "b5c467b68412d1ac923a64270e588684a41d1197") #"/Users/altunhasanli/Projects/University/Spring23/COMP301/projects/project3/myproc/lang.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))

@@ -1,5 +1,5 @@
 ## COMP 301
-This repository contains solutions and resources for the Koç University **COMP 301: Programming Languages Concepts** course. 
+This repository contains solutions and resources for the Koç University **COMP 301: Programming Language Concepts** course. 
 
 ### Projects
 - **Project 1:** Solved common Scheme problems from the book **Structure and Interpretation of Computer Programs (SICP)**.
